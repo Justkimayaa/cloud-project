@@ -8,6 +8,7 @@
 > Automatically detects AWS errors and delivers smart remediation alerts to Slack in under 60 seconds — zero human intervention required.
 
 ---
+ 
 
 ## 🏗️ Architecture
 ```
